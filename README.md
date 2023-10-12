@@ -26,7 +26,13 @@ Potential Future
 
 -Optimise for our own effect on the market which will be larg are the market volume is low. 
 
+Follow on--
 
+LEO: Made youtube api program got links to goldfish cards and time of video about those cards
+Made MTG goldfish webscraped
+Got all the card DATA
+
+all that is yet to do for step one is analyse the data
 
 
 
