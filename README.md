@@ -34,7 +34,7 @@ Got all the card DATA
 
 all that is yet to do for step one is analyse the data
 
-
+The date of event vector for the current data set is --2023-09-25T15:07:47Z--
 
 
 
